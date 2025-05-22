@@ -28,8 +28,6 @@ An intelligent, visually appealing book recommendation system powered by collabo
 
 ---
 
----
-
 ## 🧠 Setup Instructions
 
 ### 1. Clone the Repo
